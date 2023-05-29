@@ -1,2 +1,3 @@
 # SWAPI
-Created with CodeSandbox
+
+Simple dashboard to consume the SWAPI API about Star Wars.
